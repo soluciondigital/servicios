@@ -1,0 +1,4 @@
+[submodule "soluciondigital/face_attendance_odoo"]
+	path = soluciondigital/face_attendance_odoo
+	url = git@github.com:soluciondigital/face_attendance_odoo.git
+	branch = master
